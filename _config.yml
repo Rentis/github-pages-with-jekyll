@@ -1,11 +1,11 @@
 ---
 title: "Practice GitHub Pages"
 date: 2019-11-25
----
-
 theme: minima
 author: Rentis
 email: nikoslamprou@yahoo.com
+---
+
 description: > # this means to ignore newlines until "baseurl:"
   Hope to be able to handle the issue of GitHub Pages and understand its use
 twitter_username: your-twitter-handle
